@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57ae01d8-cd69-4c57-85f7-f6a204ebd51e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SenderMangement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingSession1/Package.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingSession1/Package.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingSession1/PackageManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingSession1/PackageManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingSession1/StartUserInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingSession1/StartUserInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingSession1/TestData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingSession1/TestData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Package.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Package.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PackageManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PackageManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ParcelLocker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParcelLocker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ParcelLockerManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParcelLockerManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StartUserInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StartUserInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestData.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="24V7gBhYl4p7YSt8Hn45K39VYOQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TrainingSession1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57ae01d8-cd69-4c57-85f7-f6a204ebd51e" name="Default Changelist" comment="" />
+      <created>1643704008449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643704008449</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
