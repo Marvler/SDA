@@ -44,8 +44,6 @@ public class Package {
                 ", weight=" + weight +
                 ", recipient='" + recipient + '\'' +
                 ", sender='" + sender + '\'' +
-                ", senderParcelLocker=" + senderParcelLocker +
-                ", recipientParcelLocker=" + recipientParcelLocker +
                 ", status=" + status +
                 '}';
     }

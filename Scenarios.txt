@@ -1,0 +1,27 @@
+Presentation regarding parcels was already performed so I will write scenarios according to packages functionalities.
+
+1. Type name of the package
+2. Type name of the package
+3. Type name of the package
+4. Type Recipient Parcel locker ID (asd34 i.e.)
+5. Type sender Parcel locker ID (afd91 i.e.)
+6. Choose status. Depending on your choice, package will be assigned to recipient parcel locker, sender, or none of them.
+   Let's say it is in Not Sent status.
+
+Type "2" and then "3" to display all parcel lockers with packages. Due to fact that new package was in NOT SENT status
+it is asssigne to sender locker afd91.
+
+You can also look at it by clikcin 3 in package menu, and typing afd91
+
+In package menu type 4 to go in Updating package details functionality
+1. Type id of package. You can copy id from sender locker afd91
+2. Update package name.
+3. Update package size.
+4. Update package weight(double).
+5. Update package recipient.
+6. Update package sender.
+7. Update sender locker ID (i.e. afd91)
+8. Update recipient locker ID (i.e. afd93) 
+9. Update status to DELIVERED
+
+as status changed package move from sender locker parcel to recipient locker parcel 
